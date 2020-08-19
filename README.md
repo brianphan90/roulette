@@ -60,7 +60,7 @@ This API supports the following bets:
 ## Development
 Version <b>1.0.0</b>
 
-Written by <b>Marcel Perez</b>
+Written by <b>Marcel Perez and Brian Phan</b>
 
 Uses <b>Flask</b> for <b>Python</b>
 
